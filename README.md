@@ -1,4 +1,4 @@
-# Global Data Salary Analysis
+# Data Career Salary Analysis
 
 ## Project Overview
 
