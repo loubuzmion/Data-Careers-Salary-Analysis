@@ -37,8 +37,3 @@ Understanding salary trends helps job seekers, employers, and businesses make in
 
 The dataset contains over 9,000 salary records from various data and technology professions including Data Analysts, Data Engineers, Data Scientists, and Machine Learning Engineers.
 
-## Author
-
-Lou Buzmion
-
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
