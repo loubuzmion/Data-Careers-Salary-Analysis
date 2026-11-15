@@ -1,42 +1,44 @@
-# Hi, I'm Lou Buzmion 👋
+# Global Data Salary Analysis
 
-## Aspiring Data Analyst | SQL | Power BI | Excel | Python
+## Project Overview
 
-I am currently completing the Diploma in Digital Technology Development and Design (Level 5) through Mission Ready HQ in New Zealand.
+This project explores salary trends across more than 9,000 data and technology jobs using Microsoft Excel.
 
-With more than 10 years of experience in warehousing, logistics, and inventory management, I am transitioning into Data Analytics and building practical experience through SQL, Power BI, Excel, and Python projects.
+## Business Problem
 
-## Technical Skills
+Understanding salary trends helps job seekers, employers, and businesses make informed decisions about compensation, hiring, and career planning.
 
-- SQL
-- Power BI
-- Excel
-- Power Query
-- Python
-- Pandas
+## Tools Used
+
+- Microsoft Excel
+- Data Filtering
 - Data Cleaning
-- Data Transformation
-- Data Visualization
+- Data Validation
+- Sorting and Analysis
+
+## Key Tasks Performed
+
+- Cleaned and validated salary data
+- Filtered records based on business requirements
+- Analyzed salary trends across different job roles
+- Identified data quality issues
+- Generated insights from large datasets
+
+## Skills Demonstrated
+
+- Data Analysis
+- Data Cleaning
+- Data Validation
+- Excel Functions
+- Problem Solving
 - Business Reporting
 
-## Featured Projects
+## Dataset
 
-### Power BI Dashboard Project
-Interactive dashboard analysing business performance and KPIs.
+The dataset contains over 9,000 salary records from various data and technology professions including Data Analysts, Data Engineers, Data Scientists, and Machine Learning Engineers.
 
-### SQL Data Analysis Project
-Data extraction, transformation, and reporting using SQL queries.
+## Author
 
-### Data Analysis Project
-Data cleaning, trend analysis, and business insights using Excel and Python.
+Lou Buzmion
 
-## Education
-
-Diploma in Digital Technology Development and Design (Level 5)
-Mission Ready HQ
-Expected completion: 2027
-
-## Connect With Me
-
-LinkedIn:
-www.linkedin.com/in/lou-buzmion-5a8366102
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
