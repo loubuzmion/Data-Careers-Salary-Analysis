@@ -110,8 +110,3 @@ Both roles show rising salaries. In 2023, Data Scientists average about 48% more
 - Add a simple percentile or median analysis (MySQL window functions) because the averages are pulled up by a few very high salaries.
 - Keep cleaning separate from analysis: use a `WHERE` filter or a view instead of deleting rows, so no data is lost.
 - Visualise the results (Excel, Power BI or Python): average salary by job title, by year and by country.
-
-## Repository Contents
-- `README.md`: this summary
-- `M3_Script.sql`: the SQL script
-- `M3.xlsx`: the questions, the queries and the result of each query
