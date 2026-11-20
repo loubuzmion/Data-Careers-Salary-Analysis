@@ -1,3 +1,4 @@
+![Data Career](data-career.jpg)
 # Data Science Jobs & Salaries: Querying and Cleaning Data with SQL
 
 A SQL project on a dataset of data-related job listings. It covers filtering, sorting and aggregating job and salary data (Questions 1–7), then cleaning the data with `UPDATE` and `DELETE` statements (Questions 8–10).
